@@ -1,5 +1,5 @@
 ﻿
-ARG runtime=3.1-runtime
+ARG runtime=3.1
 ARG version=0
 
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build
